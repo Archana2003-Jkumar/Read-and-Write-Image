@@ -105,7 +105,7 @@ cv2.waitKey(0)
 
 ### v)Cut and paste portion of image
 <br>
-![Screenshot (349)](https://user-images.githubusercontent.com/93427594/225084436-15adbc83-b945-4cad-8136-581375888b3c.png)
+![Github)](https://user-images.githubusercontent.com/93427594/225084436-15adbc83-b945-4cad-8136-581375888b3c.png)
 
 <br>
 
