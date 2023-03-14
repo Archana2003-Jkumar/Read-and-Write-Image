@@ -83,12 +83,12 @@ cv2.waitKey(0)
 
 ### ii)Write the image
 
-<br>
+
 ![Screenshot (346)](https://user-images.githubusercontent.com/93427594/225085161-0f88d929-3427-48b0-89bc-b5522c206513.png)
 ![Screenshot (345)](https://user-images.githubusercontent.com/93427594/225084276-4ead96a9-2379-4714-ab30-a5b4c04125d1.png)
 
 
-<br>
+
 
 ### iii)Shape of the Image
 
